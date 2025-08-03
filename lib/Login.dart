@@ -64,19 +64,3 @@ class Login extends StatelessWidget {
     );
   }
 }
-// Container(
-//         margin: EdgeInsets.only(top: 50, left: 20),
-//         child: Column(children: [
-//           Text(
-//             "Welcome,",
-//             style: TextStyle(
-//               fontWeight: FontWeight.bold,
-//               fontSize: 30,
-//             ),
-//           ),
-//           Text(
-//             "Sign in to continue,",
-//             style: TextStyle(fontWeight: FontWeight.normal, fontSize: 20),
-//           )
-//         ]),
-//       )
